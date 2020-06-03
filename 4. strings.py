@@ -24,9 +24,9 @@ print(len(texto))
 print(texto.isnumeric())
 print(texto.isalpha())
 # muestra la posición 3 de la variable usada
-print(texto[3]) # a
+print(texto[3])  # a
 # poner un valor negativo hace que muestre la posición desde el final.
-print(texto[-3]) # o
+print(texto[-3])  # o
 
 print("Mi nombre es " + texto)
 # equals
